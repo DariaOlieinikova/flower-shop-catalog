@@ -28,11 +28,13 @@
 
 
 
-\## 5. Trello
+\## 6. Trello
 
 \[Дошка проєкту Trello](https://trello.com/invite/b/6ab63b9e32869ed72807d206/ATTIb316efa5c54a268cfac1e233d080d11159C0361D/пі-423-розробка-та-дизайн-web-додатків)
 
+## 7. Технології
+HTML5, CSS3, JavaScript, Telegram Bot API, Git, GitHub.
 
 
-
-
+## 8. Поточний статус
+Етап проектування: розроблено ТЗ, UML-діаграми, дошку Trello та структуру репозиторію.
